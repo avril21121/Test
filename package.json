@@ -1,3 +1,5 @@
 {
-  "script":"node app.js"
+  "script":{
+    "start":"node app.js"
+  }
 }
